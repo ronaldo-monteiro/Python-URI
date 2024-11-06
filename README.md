@@ -8,19 +8,22 @@ A proposta é ajudar outros programadores e estudantes a aprender e melhorar sua
 
 O Beecrowd (antigo URI Online Judge) é uma plataforma de desafios de programação que oferece uma vasta coleção de problemas em diversas categorias como Matemática, Estruturas de Dados, Algoritmos, Grafos, Geometria Computacional, entre outros. É uma excelente plataforma para melhorar suas habilidades em programação e resolução de problemas.
 
+Segue abaixo um exemplo de estrutura dos códigos do site Beecrowd.
+
 ```Beecrowd-Solutions
 ├── /iniciante
-│   ├── 1001-hello-world.c
+│   ├── 1001-hello-world.py
 │   ├── 1002-soma-simples.py
-│   └── 1003-area-triangulo.java
+│   └── 1003-area-triangulo.py
 ├── /matematica
-│   ├── 1012-areas-geometricas.cpp
+│   ├── 1012-areas-geometricas.py
 │   └── 1020-soma-de-divisores.py
 ├── /estruturas-de-dados
-│   ├── 1035-ordenacao-mergesort.c
-│   └── 1040-media-ponderada.cpp
+│   ├── 1035-ordenacao-mergesort.py
+│   └── 1040-media-ponderada.py
 ├── /strings
 │   └── 1154-palindromos.py
 ├── README.md
 
 ```
+#### Bons estudos!
