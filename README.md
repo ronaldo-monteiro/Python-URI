@@ -26,4 +26,4 @@ Segue abaixo um exemplo de estrutura dos códigos do site Beecrowd.
 ├── README.md
 
 ```
-#### Bons estudos!
+![alt text](image.png)
