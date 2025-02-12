@@ -8,7 +8,7 @@ A proposta é ajudar outros programadores e estudantes a aprender e melhorar sua
 
 O Beecrowd (antigo URI Online Judge) é uma plataforma de desafios de programação que oferece uma vasta coleção de problemas em diversas categorias como Matemática, Estruturas de Dados, Algoritmos, Grafos, Geometria Computacional, entre outros. É uma excelente plataforma para melhorar suas habilidades em programação e resolução de problemas.
 
-Segue abaixo um exemplo de estrutura dos códigos do site Beecrowd.
+Segue abaixo um exemplo de estrutura dos códigos do site Beecrowd
 
 ```Beecrowd-Solutions
 ├── /iniciante
